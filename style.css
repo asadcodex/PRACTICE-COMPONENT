@@ -15,12 +15,15 @@ body {
 .main {
     width: 200px;
     height: 300px;
+    
     background-color: white; /* Add this if you want a background color for the .main div */
     margin: 0 auto; /* Ensures it is centered if the parent container is fixed width */
 }
 
 .row {
     background-color: white;
+    padding: 10px;
+    border-radius: 3.5%;
 }
 
 .row img {
